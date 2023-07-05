@@ -1,0 +1,1 @@
+local adj=_b[dis_m1]-0.02
